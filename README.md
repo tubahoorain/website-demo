@@ -5,4 +5,4 @@ Author Name Tooba Hoorain
 
 
 
-wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://www.devsinc.com/
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://wallosapp.com/
